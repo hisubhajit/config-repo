@@ -1,0 +1,3 @@
+spring-demo:
+  configuration:
+    greetings-text: 'Hi! wellcome to spring-demo application.'
